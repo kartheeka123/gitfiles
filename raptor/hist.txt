@@ -1,0 +1,81 @@
+    1  pwd
+    2  Ls
+    3  cd ..
+    4  cd kartheeka-aits
+    5  clear
+    6  mkdir raptor
+    7  rmdir raptor
+    8  mkdir raptor
+    9  cd raptor
+   10  touch first.txt
+   11  echo hello everyone
+   12  echo 1..10
+   13  echo {1..10}
+   14  echo {1..100}
+   15  touch file{1..10}.txt
+   16  rm first.txt
+   17  rm file{5..10}
+   18  rm file{2..4}.txt
+   19  rm file{5..10}.txt
+   20  echo "hello everyone"
+   21  echo "hiii">>file1.txt
+   22  cat file1.txt
+   23  touch myfile({1..20}.cpp
+   24  touch myfile{1..5}.c
+   25  touch myfile{6..10}.java
+   26  touch myfile{11..15}.txt
+   27  touch myfile{16..20}.py
+   28  ls
+   29  rm *.java
+   30  ls
+   31  rm myfile{13..15}.txt
+   32  ls
+   33  cat file1.txt
+   34  cp file1.txt myfile12.txt
+   35  cat myfile12.txt
+   36  mv myfile12.txt myfile11.txt
+   37  ls
+   38  cat myfile11.txt
+   39  history >> hist.txt
+    1  pwd
+    2  Ls
+    3  cd ..
+    4  cd kartheeka-aits
+    5  clear
+    6  mkdir raptor
+    7  rmdir raptor
+    8  mkdir raptor
+    9  cd raptor
+   10  touch first.txt
+   11  echo hello everyone
+   12  echo 1..10
+   13  echo {1..10}
+   14  echo {1..100}
+   15  touch file{1..10}.txt
+   16  rm first.txt
+   17  rm file{5..10}
+   18  rm file{2..4}.txt
+   19  rm file{5..10}.txt
+   20  echo "hello everyone"
+   21  echo "hiii">>file1.txt
+   22  cat file1.txt
+   23  touch myfile({1..20}.cpp
+   24  touch myfile{1..5}.c
+   25  touch myfile{6..10}.java
+   26  touch myfile{11..15}.txt
+   27  touch myfile{16..20}.py
+   28  ls
+   29  rm *.java
+   30  ls
+   31  rm myfile{13..15}.txt
+   32  ls
+   33  cat file1.txt
+   34  cp file1.txt myfile12.txt
+   35  cat myfile12.txt
+   36  mv myfile12.txt myfile11.txt
+   37  ls
+   38  cat myfile11.txt
+   39  history >> hist.txt
+   40  ls
+   41  touch hist.txt
+   42  history >> hist.txt
